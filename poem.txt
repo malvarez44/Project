@@ -1,4 +1,4 @@
-the dog
+the dog and the cat
 small
 fat
 mean
