@@ -3,5 +3,6 @@ small
 fat
 mean
 lazy
+smart
 nice
 this is the dog 
