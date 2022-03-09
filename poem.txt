@@ -1,7 +1,9 @@
-the dog and the cat
+the dog and the cat and the bird
 small
 fat
 mean
 lazy
 nice
 this is the dog 
+cat
+bird
