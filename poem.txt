@@ -2,5 +2,6 @@ the dog
 small
 fat
 mean
+lazy
 nice
 this is the dog 
