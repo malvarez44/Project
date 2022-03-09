@@ -1,4 +1,4 @@
-the dog and the cat
+the dog and the cat and the bird
 small
 fat
 mean
@@ -6,3 +6,5 @@ lazy
 smart
 nice
 this is the dog 
+cat
+bird
